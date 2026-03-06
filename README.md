@@ -6,7 +6,7 @@ A full-featured CRM built with React, shadcn-admin-kit, and Supabase.
 
 Atomic CRM is free and open-source. You can test it online at <https://marmelab.com/atomic-crm-demo>.
 
-## Features
+## Features 
 
 - 📇 **Organize Contacts**: Keep all your contacts in one easily accessible place.
 - ⏰ **Create Tasks & Set Reminders**: Never miss a follow-up or deadline.
@@ -18,6 +18,8 @@ Atomic CRM is free and open-source. You can test it online at <https://marmelab.
 - 📜 **Track Activity History**: View all interactions in aggregated activity logs.
 - 🔗 **Integrate via API**: Connect seamlessly with other systems using our API.
 - 🛠️ **Customize Everything**: Add custom fields, change the theme, and replace any component to fit your needs.
+- Added this feature
+- 
 
 ## Installation
 
